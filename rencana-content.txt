@@ -3,5 +3,8 @@ RENCANA KONTEN BARU
 -java script
  .ES6
  .Framework javascript
+   -view
 -struktur data dasar
 -php
+  .Laravel
+Python
