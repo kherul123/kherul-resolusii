@@ -1,4 +1,6 @@
 RENCANA KONTEN BARU
 
 -java script
+ .ES6
+ .Framework javascript
 -php
